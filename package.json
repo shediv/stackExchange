@@ -2,7 +2,7 @@
   "name": "passport-stack-exchange",
   "version": "1.0.0",
   "description": "Stack Exchange authentication strategy for Passport and Node.js.",
-  "main": "./lib",
+  "main": "./examples/app.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/acruxray/passport-stack-exchange.git"
