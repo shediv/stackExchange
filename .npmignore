@@ -1,0 +1,12 @@
+README.md
+examples/
+
+# Node.js
+.npmignore
+node_modules/
+
+# Git
+.git*
+
+# Jshint
+.jshint*
